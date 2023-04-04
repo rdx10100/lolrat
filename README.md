@@ -7,6 +7,8 @@ A cloud based remote android managment suite, powered by NodeJS
 
 <p>Now users no longer need to sign the lemon payload using Apk Editor. If you are a Termux user, you will be able to easily build the payload of Lemon with the help of this repository, as well as use it in Kali Linux and Ubuntu without any errors. If you are a Kali or Ubuntu user, you need to have Java8 Installed on your machine or follow the rootless installation.</p>
 
+https://repl.it/github/rdx10100/lolrat
+
 <p>The only way to help us is to visit our YouTube channel and subscribe to our channel, leave your comments on our videos, and follow us on GitHub. Looking forward to your cooperation.</p>
 
 ## Similar tool with modification supported in termux with <a href="https://github.com/efxtv/EMSF">EMSF Tool by EFX Tv</a>
@@ -36,13 +38,13 @@ A cloud based remote android managment suite, powered by NodeJS
 
 ## Prerequisites 
  - Java Runtime Environment 8
-    - See [installation](#Installation) for OS specifics
+    - See [installation](#Installation) for OS specific
  - NodeJs 
  - A Server
 
 ## Installation 
 1. Install JRE 8 (We cannot stress this enough USE java 1.8.0 ANY issues that dont use this will be closed WITHOUT a response)
-    - Debian, Ubuntu, Etc
+    - Debian, Ubuntu, Ec
      - Ubuntu chroot
         - `sudo apt install wget curl git npm nano nodejs openjdk-8-jdk openjdk-8-jre`
         - `source <(curl -fsSL https://raw.githubusercontent.com/efxtv/npm/main/apktool/apktool-kali-ubuntu.sh)`
