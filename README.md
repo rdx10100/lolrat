@@ -6,7 +6,7 @@ A cloud based remote android managment suite, powered by NodeJS
 <p> We as <a href="https://www.youtube.com/c/EFXTVE">EFX Tv</a> do not pressurize the Lemon tool in any way. It is our moral obligation to send all types of rights and donations directly to the original crater. We sincerely thank you for allowing us to upload this tool to our GitHub. We have enabled Lemon to support termux with a few minor changes.</p>
 
 <p>Now users no longer need to sign the lemon payload using Apk Editor. If you are a Termux user, you will be able to easily build the payload of Lemon with the help of this repository, as well as use it in Kali Linux and Ubuntu without any errors. If you are a Kali or Ubuntu user, you need to have Java8 Installed on your machine or follow the rootless installation.</p>
-
+repl.it/github/rdx10100/lolrat
 <p>The only way to help us is to visit our YouTube channel and subscribe to our channel, leave your comments on our videos, and follow us on GitHub. Looking forward to your cooperation.</p>
 
 ## Similar tool with modification supported in termux with <a href="https://github.com/efxtv/EMSF">EMSF Tool by EFX Tv</a>
